@@ -1,9 +1,9 @@
 def mario
   status = "It's-a me, Mario!"
-  puts phrase
+  puts status
 end
 
-def mario
+def mar
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
 end
