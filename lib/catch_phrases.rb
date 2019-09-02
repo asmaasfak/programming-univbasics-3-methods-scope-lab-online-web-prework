@@ -3,11 +3,11 @@ def mario
   puts status
 end
 
-def mar
+def toadstool
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
 end
 
-def toadstool
+def link
   puts status
 end
